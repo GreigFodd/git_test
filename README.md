@@ -1,1 +1,1 @@
-This is GreigFodd's (not) first git project!
+This is (not) GreigFodd's first git project!
